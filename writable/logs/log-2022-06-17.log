@@ -1,0 +1,80 @@
+CRITICAL - 2022-06-17 08:16:26 --> Invalid file: emails/index].php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('emails/index].php')
+ 2 SYSTEMPATH/Common.php(1119): CodeIgniter\View\View->render('emails/index]', [], true)
+ 3 APPPATH/Controllers/Email.php(16): view('emails/index]')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Email->index()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Email))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-17 08:16:29 --> Invalid file: emails/index].php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('emails/index].php')
+ 2 SYSTEMPATH/Common.php(1119): CodeIgniter\View\View->render('emails/index]', [], true)
+ 3 APPPATH/Controllers/Email.php(16): view('emails/index]')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Email->index()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Email))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-17 08:19:28 --> Invalid file: emails/index].php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('emails/index].php')
+ 2 SYSTEMPATH/Common.php(1119): CodeIgniter\View\View->render('emails/index]', [], true)
+ 3 APPPATH/Controllers/Email.php(16): view('emails/index]')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Email->index()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Email))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-17 08:26:08 --> Invalid file: emails/index].php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('emails/index].php')
+ 2 SYSTEMPATH/Common.php(1119): CodeIgniter\View\View->render('emails/index]', [], true)
+ 3 APPPATH/Controllers/Email.php(16): view('emails/index]')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Email->index()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Email))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-17 08:27:12 --> Invalid file: emails/index].php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('emails/index].php')
+ 2 SYSTEMPATH/Common.php(1119): CodeIgniter\View\View->render('emails/index]', [], true)
+ 3 APPPATH/Controllers/Email.php(16): view('emails/index]')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Email->index()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Email))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-17 08:27:23 --> Invalid file: emails/index].php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('emails/index].php')
+ 2 SYSTEMPATH/Common.php(1119): CodeIgniter\View\View->render('emails/index]', [], true)
+ 3 APPPATH/Controllers/Email.php(16): view('emails/index]')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Email->index()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Email))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-17 08:27:31 --> Invalid file: emails/index].php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('emails/index].php')
+ 2 SYSTEMPATH/Common.php(1119): CodeIgniter\View\View->render('emails/index]', [], true)
+ 3 APPPATH/Controllers/Email.php(16): view('emails/index]')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Email->index()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Email))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
+CRITICAL - 2022-06-17 08:34:17 --> Invalid file: emails/index].php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('emails/index].php')
+ 2 SYSTEMPATH/Common.php(1119): CodeIgniter\View\View->render('emails/index]', [], true)
+ 3 APPPATH/Controllers/Email.php(16): view('emails/index]')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Email->index()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Email))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(43): require_once('FCPATH/index.php')
